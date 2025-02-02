@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(212, 78, 230, 0.425);
+    font-family: "Caveat", cursive;
+
+}
+h3{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: -5px;
+    font-weight:700;
+}
+menu{
+    background-color: rgba(209, 136, 205, 0.583);
+}
+ul{
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+h5{
+    background-color: rgba(209, 136, 205, 0.583);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    
+}
+#task-box{
+    height: 600px;
+    width: 750px;
+}
+
+/* Home page style*/
+form{
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+#table-task-overflow{
+    margin-top: -45px;
+    overflow: auto;
+    height: 480px;
+}
+.delete-color, .update-color, .done-color{
+    font-weight: bold;
+}
+
+/* task page style*/
+
+#table-result-overflow{
+    overflow: auto;
+    height: 500px;
+}
+.welldone-color{
+    font-weight: bold;
+    color: rgb(35, 105, 35);
+
+}
+.undo-color{
+    font-weight: bold;
+    color: rgb(185, 49, 49);
+}

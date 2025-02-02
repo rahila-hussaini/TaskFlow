@@ -30,8 +30,10 @@ A simple and efficient To-Do List Web App built with PHP, HTML, CSS, Bootstrap, 
 . Mark tasks as completed or delete them when done.
 
 ### 📸 Screenshots
-![TaskFlow Screenshot](screenshot/01.png) <br>
-![TaskFlow Screenshot](screenshot/02.png)
+<img src="https://github.com/rahila-hussaini/TaskFlow/raw/main/ScreenShot/01.PNG">
+<img src="https://github.com/rahila-hussaini/TaskFlow/raw/main/ScreenShot/02.PNG">
+
+
 
 ### 🏆 Future Improvements (Optional)
 🔔 Add notifications/reminders

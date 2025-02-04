@@ -2,17 +2,17 @@
 A simple and efficient To-Do List Web App built with PHP, HTML, CSS, Bootstrap, and MySQLi to help you manage your daily tasks.
 
 ### 🚀 Features
-✅ Add, edit, and delete tasks
-📌 Mark tasks as completed and
-📆 Store tasks in a MySQL database
-📱 Responsive design using Bootstrap
-🔍 Simple and user-friendly interface
+✅ Add, edit, and delete tasks<br>
+📌 Mark tasks as completed and<br>
+📆 Store tasks in a MySQL database<br>
+📱 Responsive design using Bootstrap<br>
+🔍 Simple and user-friendly interface<br>
 
 ### 🛠 Tech Stack 
 
-. Backend: PHP (MySQLi for database interaction)
-. Frontend: HTML, CSS, Bootstrap
-. Database: MySQL
+. Backend: PHP (MySQLi for database interaction)<br>
+. Frontend: HTML, CSS, Bootstrap<br>
+. Database: MySQL<br>
 . Git (GitHub for collaboration)
 
 ### 📂 Installation & Setup
@@ -25,9 +25,9 @@ A simple and efficient To-Do List Web App built with PHP, HTML, CSS, Bootstrap, 
    
 ### 🎯 Usage
 
-. Open the app and enter your tasks.
-. Click Submit to save them.
-. Mark tasks as completed or delete them when done.
+. Open the app and enter your tasks.<br>
+. Click Submit to save them.<br>
+. Mark tasks as completed or delete them when done.<br>
 
 ### 📸 Screenshots
 <img src="https://github.com/rahila-hussaini/TaskFlow/raw/main/ScreenShot/01.PNG">
@@ -36,7 +36,7 @@ A simple and efficient To-Do List Web App built with PHP, HTML, CSS, Bootstrap, 
 
 
 ### 🏆 Future Improvements (Optional)
-🔔 Add notifications/reminders
+🔔 Add notifications/reminders <br>
 🌙 Dark mode
 
 ### 🤝 Contributing
